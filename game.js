@@ -1,5 +1,5 @@
 
-alert("Rules of game is simple: A particular colour block will be highlighted on each level, you have to memorize the order in which each block is highlighed starting form level 1, and have to click each block in same order.")
+// alert("Rules of game is simple: A particular colour block will be highlighted on each level, you have to memorize the order in which each block is highlighed starting form level 1, and have to click each block in same order.")
 
 
 var userClickedPattern=[];
