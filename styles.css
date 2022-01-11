@@ -33,6 +33,7 @@ body {
   cursor: pointer;
   border-radius: 20%;
   border: solid;
+  font-family: 'Press Start 2P', cursive;
 }
 
 .start:after {
